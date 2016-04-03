@@ -22,8 +22,8 @@ import timePicker from './components/timepicker'
 		}
 	},
 	components: {
-        dataSelector
-    }
+	    timePicker
+	}
 ...
 ```
 

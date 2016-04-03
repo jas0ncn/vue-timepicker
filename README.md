@@ -29,4 +29,4 @@ import timePicker from './components/timepicker'
 
 # Notice
 
-In order to support backend(such as PHP) to parse timestamp. The length of `microtime` is 10.
+In order to support backend(such as PHP) parse timestamp. The length of `microtime` is 10.
